@@ -461,6 +461,7 @@ span {
     margin: 15px;
     margin-left: 50px;
     border-radius: 10px;
+    color: #ff7a00;
 
 
 }
@@ -477,6 +478,7 @@ span {
     margin: 15px;
     margin-left: 50px;
     border-radius: 10px;
+    color: #ff7a00;
 }
 .ranj:hover{
     color:  #0084ff;
@@ -490,6 +492,7 @@ span {
     margin: 15px;
     margin-left: 50px;
     border-radius: 10px;
+    color: #ff7a00;
    
 }
 .SabareeshwaranM:hover{
@@ -504,6 +507,7 @@ span {
     margin: 15px;
     margin-left: 50px;
     border-radius: 10px;
+    color: #ff7a00;
     
 }
 .pranaaph:hover{
@@ -527,19 +531,19 @@ width: 50%;
 }
 
 .footer{
-text-align: center;
-font-family: "Poppins", sans-serif;
-background-color: #ff7a00;
-padding-top: 15px;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  
+
+
 }
 .footertwo{
+  
+  font-size: medium;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  color: gray;
 
-font-size: small;
-text-align: center;
-font-family: "Poppins", sans-serif;
-background-color: #ff7a00;
-color: black;
-padding-bottom: 5px;
 }
 .easy{
     display: flex;

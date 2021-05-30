@@ -1,10 +1,5 @@
-*{
-    
-  font-family:Poppins;
-  margin: 0%;
-  padding: 0%;
-  text-transform: capitalize;
-}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
 
 #head{
   width: 100%;
@@ -462,6 +457,7 @@ color: gray;
   margin-left: 50px;
   border-radius: 10px;
   flex-shrink: 0;
+  font-family: poppins;
 
 
 }
